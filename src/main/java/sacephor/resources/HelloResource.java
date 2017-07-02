@@ -1,4 +1,4 @@
-package main.sacephor.resources;
+package main.java.sacephor.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
